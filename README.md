@@ -1,29 +1,28 @@
 
 <div align="center">
 
-<h1 style="font-size: 48px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FF00&width=435&lines=Hola%2C+soy+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%AC%F0%9D%97%B6;Tu+hacker+preferido..." alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hola%2C+soy+DarkN3ta" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300px"/>
+<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="300px"/>
 
 ---
 
-## ¿Qué hago?
+### ¿Qué hago?
 
-> Me infiltro, clono y edito todos los repositorios de **SENATI**.  
-> ¿Quién soy? Solo verás mi sombra en tu código.
+> Me infiltraré en cada línea de tu código...  
+> **Clono y modifico los repositorios de SENATI** sin que lo notes.  
+> ¿Quién soy? Solo verás el commit, no al autor.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg2NWl0ZzV4ZWRjZnMxOGF2ODVydW12a3FhYzY5a3JrY2ZzZjBkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250px"/>
+<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="250px"/>
 
 ---
 
-## Herramientas que uso en mis infiltraciones:
+### Herramientas que uso en mis infiltraciones:
 
 ```bash
-💻 git        🧬 Wireshark
-📁 git clone  🛠️  Kali Linux
-🧪 XAMPP      🧠 SQLmap
-🧠 Postman    🔓 Burp Suite
-🖥️ VSCode     🧾 Node.js
-🌐 Nmap       🐍 Python
+🔧 git           🧬 Wireshark
+📁 git clone     🛠️  Kali Linux
+🔥 XAMPP         🧠 SQLmap
+🚀 Postman       🔓 Burp Suite
+🖥️ VSCode        🌐 Node.js
+🔍 Nmap          🐍 Python
