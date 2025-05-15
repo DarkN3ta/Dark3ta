@@ -13,7 +13,7 @@
 > **Clono y modifico los repositorios de SENATI** sin que lo notes.  
 > ¿Quién soy? Solo verás el commit, no al autor.
 
-<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="250px"/>
+<img src="https://media.giphy.com/media/kfVfeOosdFfAA3Jgmj/giphy.gif" width="260px"/> <!-- Mujer estilo hacker -->
 
 ---
 
