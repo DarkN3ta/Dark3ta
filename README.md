@@ -11,9 +11,10 @@
 
 > Me infiltraré en cada línea de tu código...  
 > **Clono y modifico los repositorios de SENATI** sin que lo notes.  
-> ¿Quién soy? Solo verás el commit, no al autor.
+> ¿Quién soy? Solo verás el commit... no al autor.
 
-<img src="https://media.giphy.com/media/kfVfeOosdFfAA3Jgmj/giphy.gif" width="260px"/> <!-- Mujer estilo hacker -->
+<img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="270px"/>
+<!-- Samara saliendo del televisor -->
 
 ---
 
@@ -26,3 +27,9 @@
 🚀 Postman       🔓 Burp Suite
 🖥️ VSCode        🌐 Node.js
 🔍 Nmap          🐍 Python
+
+
+🧠 Full Stack Developer
+💀 Ethical Hacker
+🖱️ Terminal Control
+🧿 Inyección de código fantasma
